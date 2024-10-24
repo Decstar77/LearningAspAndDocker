@@ -17,7 +17,7 @@ RUN dotnet publish "LearnDockerAndASP/LearnDockerAndASP.csproj" -c Release -o /a
 
 # Stage 3: Run
 FROM publish AS run
-EXPOSE 3000
+EXPOSE 8080
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "LearnDockerAndASP.dll", "--urls", "http://*:3000"]
+ENTRYPOINT ["dotnet", "LearnDockerAndASP.dll"]
