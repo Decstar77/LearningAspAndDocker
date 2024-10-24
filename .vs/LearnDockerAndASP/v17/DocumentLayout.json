@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34BE0F5B-7EE0-45A9-A7E3-735DCE1F54B5}|LearnDockerAndASP\\LearnDockerAndASP.csproj|c:\\projects\\2024\\delet\\learndockerandasp\\learndockerandasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34BE0F5B-7EE0-45A9-A7E3-735DCE1F54B5}|LearnDockerAndASP\\LearnDockerAndASP.csproj|solutionrelative:learndockerandasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BE0F5B-7EE0-45A9-A7E3-735DCE1F54B5}|LearnDockerAndASP\\LearnDockerAndASP.csproj|c:\\projects\\2024\\delet\\learndockerandasp\\learndockerandasp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34BE0F5B-7EE0-45A9-A7E3-735DCE1F54B5}|LearnDockerAndASP\\LearnDockerAndASP.csproj|solutionrelative:learndockerandasp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BE0F5B-7EE0-45A9-A7E3-735DCE1F54B5}|LearnDockerAndASP\\LearnDockerAndASP.csproj|c:\\projects\\2024\\delet\\learndockerandasp\\learndockerandasp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34BE0F5B-7EE0-45A9-A7E3-735DCE1F54B5}|LearnDockerAndASP\\LearnDockerAndASP.csproj|solutionrelative:learndockerandasp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BE0F5B-7EE0-45A9-A7E3-735DCE1F54B5}|LearnDockerAndASP\\LearnDockerAndASP.csproj|c:\\projects\\2024\\delet\\learndockerandasp\\learndockerandasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34BE0F5B-7EE0-45A9-A7E3-735DCE1F54B5}|LearnDockerAndASP\\LearnDockerAndASP.csproj|solutionrelative:learndockerandasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BE0F5B-7EE0-45A9-A7E3-735DCE1F54B5}|LearnDockerAndASP\\LearnDockerAndASP.csproj|c:\\projects\\2024\\delet\\learndockerandasp\\learndockerandasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BE0F5B-7EE0-45A9-A7E3-735DCE1F54B5}|LearnDockerAndASP\\LearnDockerAndASP.csproj|solutionrelative:learndockerandasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BE0F5B-7EE0-45A9-A7E3-735DCE1F54B5}|LearnDockerAndASP\\LearnDockerAndASP.csproj|c:\\projects\\2024\\delet\\learndockerandasp\\learndockerandasp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34BE0F5B-7EE0-45A9-A7E3-735DCE1F54B5}|LearnDockerAndASP\\LearnDockerAndASP.csproj|solutionrelative:learndockerandasp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BE0F5B-7EE0-45A9-A7E3-735DCE1F54B5}|LearnDockerAndASP\\LearnDockerAndASP.csproj|c:\\projects\\2024\\delet\\learndockerandasp\\learndockerandasp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34BE0F5B-7EE0-45A9-A7E3-735DCE1F54B5}|LearnDockerAndASP\\LearnDockerAndASP.csproj|solutionrelative:learndockerandasp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BE0F5B-7EE0-45A9-A7E3-735DCE1F54B5}|LearnDockerAndASP\\LearnDockerAndASP.csproj|c:\\projects\\2024\\delet\\learndockerandasp\\learndockerandasp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34BE0F5B-7EE0-45A9-A7E3-735DCE1F54B5}|LearnDockerAndASP\\LearnDockerAndASP.csproj|solutionrelative:learndockerandasp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b9a151ce-ef7c-4fe1-a6aa-4777e6e518f3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\LearnDockerAndASP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LearnDockerAndASP\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\LearnDockerAndASP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LearnDockerAndASP\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:04:39.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\LearnDockerAndASP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LearnDockerAndASP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\LearnDockerAndASP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LearnDockerAndASP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T22:06:38.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\LearnDockerAndASP\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "LearnDockerAndASP\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\LearnDockerAndASP\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "LearnDockerAndASP\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T22:07:11.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\LearnDockerAndASP\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LearnDockerAndASP\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\LearnDockerAndASP\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LearnDockerAndASP\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T22:07:15.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\LearnDockerAndASP\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LearnDockerAndASP\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\LearnDockerAndASP\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LearnDockerAndASP\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T22:07:18.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\LearnDockerAndASP\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LearnDockerAndASP\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\LearnDockerAndASP\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LearnDockerAndASP\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T22:07:19.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\LearnDockerAndASP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LearnDockerAndASP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\LearnDockerAndASP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LearnDockerAndASP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T22:09:44.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\LearnDockerAndASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LearnDockerAndASP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\2024\\delet\\LearnDockerAndASP\\LearnDockerAndASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LearnDockerAndASP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T22:09:45.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+version: '3.9'
+
+services:
+  learn-docker-and-asp:
+    container_name: learn-docker-and-asp
+    image: learn-docker-and-asp
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 7107:8080
+    depends_on:
+      - db
+
+  db:
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: learn-docker-and-asp
+    ports:
+      - 5151:3306
+
